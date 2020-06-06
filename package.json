@@ -1,0 +1,8 @@
+{
+  "name": "e-family",
+  "description": "e-family app with heroku",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  }
+}
