@@ -1,0 +1,23 @@
+[
+    {
+    "id": "1",
+    "name": "Pa Obadan",
+  "description": "The most senior Obadan the web.",
+  "parent": "0",
+  "spouse": "Madam Obadan"
+},
+{
+    "id": "2",
+    "name": "James Obadan",
+    "description": "The most senior Obadan the web.",
+    "parent": "1",
+    "spouse": "Madam Obadan"
+  },
+  {
+    "id": "3",
+    "name": "Peter Obadan",
+    "description": "The most senior Obadanin Benin.",
+    "parent": "1",
+    "spouse": "Madam Obadan"
+  }
+]

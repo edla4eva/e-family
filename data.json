@@ -1,0 +1,35 @@
+{
+  "name": "Pa Obadan",
+  "description": "The most senior Obadan the web.",
+  "parent": "0",
+  "spouse": "Madam Obadan",
+  "children": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "pix": "https://getbootstrap.com/pix/",
+  "id": "1",
+  "titles": [
+    "Pa"
+  ],
+  "bio": {
+    "school": "divine academy",
+    "work": "michelin ",
+    "info": "Worked in shell nnpc"
+  },
+   "bundlesize": [
+    {
+      "path": "./dist/css/bootstrap-grid.css",
+      "maxSize": "7 kB"
+    },
+    {
+      "path": "./dist/css/bootstrap-grid.min.css",
+      "maxSize": "6 kB"
+    }
+]
+}
